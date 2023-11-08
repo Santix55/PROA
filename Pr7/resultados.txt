@@ -1,0 +1,111 @@
+.:20:34:58:. > time ./p7
+ APARTADO 1
+91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2
+
+real	0m0,017s
+user	0m0,007s
+sys	0m0,010s
+$ santix55 @ eduroamnat20-98.eduroamnat.uv.es> ~/Documentos/Universidad/PROA/PRACTICAS/L1_01/Pr7
+.:20:35:03:. > time ./p7
+ APARTADO 1
+91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2
+
+real	0m0,016s
+user	0m0,008s
+sys	0m0,008s
+$ santix55 @ eduroamnat20-98.eduroamnat.uv.es> ~/Documentos/Universidad/PROA/PRACTICAS/L1_01/Pr7
+.:20:35:05:. > time ./p7
+ APARTADO 1
+91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2
+
+real	0m0,018s
+user	0m0,008s
+sys	0m0,009s
+$ santix55 @ eduroamnat20-98.eduroamnat.uv.es> ~/Documentos/Universidad/PROA/PRACTICAS/L1_01/Pr7
+.:20:35:23:. > time ./p7
+ APARTADO 1
+91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2
+
+real	0m0,019s
+user	0m0,010s
+sys	0m0,009s
+$ santix55 @ eduroamnat20-98.eduroamnat.uv.es> ~/Documentos/Universidad/PROA/PRACTICAS/L1_01/Pr7
+.:20:35:24:. > time ./p7eigen
+ TEST APARTADO 4
+91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2
+
+real	0m0,035s
+user	0m0,027s
+sys	0m0,008s
+$ santix55 @ eduroamnat20-98.eduroamnat.uv.es> ~/Documentos/Universidad/PROA/PRACTICAS/L1_01/Pr7
+.:20:35:41:. > time ./p7eigen
+ TEST APARTADO 4
+91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2
+
+real	0m0,034s
+user	0m0,024s
+sys	0m0,010s
+$ santix55 @ eduroamnat20-98.eduroamnat.uv.es> ~/Documentos/Universidad/PROA/PRACTICAS/L1_01/Pr7
+.:20:35:44:. > time ./p7eigen
+ TEST APARTADO 4
+91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2
+
+real	0m0,032s
+user	0m0,024s
+sys	0m0,008s
+$ santix55 @ eduroamnat20-98.eduroamnat.uv.es> ~/Documentos/Universidad/PROA/PRACTICAS/L1_01/Pr7
+.:20:35:45:. > time ./p7eigen
+ TEST APARTADO 4
+91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2
+
+real	0m0,035s
+user	0m0,022s
+sys	0m0,013s
+$ santix55 @ eduroamnat20-98.eduroamnat.uv.es> ~/Documentos/Universidad/PROA/PRACTICAS/L1_01/Pr7
+.:20:35:47:. > time ./p7eigen
+ TEST APARTADO 4
+91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2
+
+real	0m0,034s
+user	0m0,027s
+sys	0m0,007s
+$ santix55 @ eduroamnat20-98.eduroamnat.uv.es> ~/Documentos/Universidad/PROA/PRACTICAS/L1_01/Pr7
+.:20:35:48:. > time ./p7sarray2
+ TEST APARTADO 2
+91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2
+
+real	0m0,130s
+user	0m0,104s
+sys	0m0,025s
+$ santix55 @ eduroamnat20-98.eduroamnat.uv.es> ~/Documentos/Universidad/PROA/PRACTICAS/L1_01/Pr7
+.:20:36:03:. > time ./p7sarray2
+ TEST APARTADO 2
+91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2
+
+real	0m0,133s
+user	0m0,108s
+sys	0m0,022s
+$ santix55 @ eduroamnat20-98.eduroamnat.uv.es> ~/Documentos/Universidad/PROA/PRACTICAS/L1_01/Pr7
+.:20:36:05:. > time ./p7sarray2
+ TEST APARTADO 2
+91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2
+
+real	0m0,131s
+user	0m0,100s
+sys	0m0,031s
+$ santix55 @ eduroamnat20-98.eduroamnat.uv.es> ~/Documentos/Universidad/PROA/PRACTICAS/L1_01/Pr7
+.:20:36:06:. > time ./p7sarray2
+ TEST APARTADO 2
+91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2
+
+real	0m0,129s
+user	0m0,100s
+sys	0m0,028s
+$ santix55 @ eduroamnat20-98.eduroamnat.uv.es> ~/Documentos/Universidad/PROA/PRACTICAS/L1_01/Pr7
+.:20:36:08:. > time ./p7sarray2
+ TEST APARTADO 2
+91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2 91.2
+
+real	0m0,130s
+user	0m0,100s
+sys	0m0,029s
